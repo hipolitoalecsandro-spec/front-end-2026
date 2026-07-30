@@ -1,0 +1,28 @@
+/* 1. Mudando o fundo da página inteira */
+body {
+    background-color: #7cb1f7; /* Cor de fundo cinza claro */
+    font-family: Arial, sans-serif;
+    color: #062e46; /* Cor do texto geral */
+}
+
+/* 2. Estilizando e centralizando o Título */
+h1 {
+    background-color: #0b3f57; /* Fundo azul escuro */
+    color: #ffffff;            /* Texto branco */
+    text-align: center;        /* Alinhamento ao centro */
+    padding: 20px;             /* Espaço interno para o texto respirar */
+}
+
+/* 3. Estilizando os Parágrafos */
+p {
+    text-align: center;        /* Texto centralizado */
+    color: #0a586b;            /* Tom de cinza para o texto */
+}
+
+/* 4. Criando um cartão simples para a lista */
+ul {
+    background-color: #ffffff; /* Fundo branco para a lista */
+    padding: 20px;
+    width: 300px;              /* Largura da caixa */
+    margin: 0 auto;            /* Centraliza a caixa da lista na tela */
+}
